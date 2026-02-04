@@ -13,13 +13,21 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" alt="LinkedIn"/>
   </a>
 </p>
+
 <h2 align="center">📬 Connect With Me</h2>
 
+
 <p align="center">
-  📞 8766012221 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  📧 <a href="mailto:yogeshm2806@gmail.com">yogeshm2806@gmail.com</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="tel:8766012221">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phone/phone-original.svg" width="42" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:yogeshm2806@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="42" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/yogesh-mahajan-28o699" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22" style="vertical-align:middle;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" />
   </a>
 </p>
 
