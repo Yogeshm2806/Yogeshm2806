@@ -30,8 +30,6 @@
 
 ## 🛠️ Skills & Tools  
 
-<h2 align="center">🛠️ Skills & Technologies</h2>
-
 <h3>🌐 Networking</h3>
 <ul>
   <li>🖥️ Computer Hardware</li>
@@ -148,13 +146,6 @@
 - User management  
 - Backup scripts  
 - Monitoring basics  
-
----
-
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
