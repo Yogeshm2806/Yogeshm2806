@@ -77,8 +77,8 @@
 ---
 
 ## 📫 Connect With Me  
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK  
-- 📧 Email: yourmail@example.com  
+- 💼 LinkedIn: https://linkedin.com/in/https://www.linkedin.com/in/yogesh-mahajan-28o699?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app  
+- 📧 Email: yogeshm2806@gmail.com  
 
 ⭐ *If you like my work, consider giving a star!*  
 
