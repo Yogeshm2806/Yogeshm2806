@@ -3,9 +3,9 @@
 </h1>
                                              
 <p align="center">
-  I'm <b>Yogesh Sanjay Mahajan</b><br>
+  I'm <b> Hi 👋, I'm Yogesh Mahajan </b><br>
   🐧 Linux | ⚙️ DevOps | 🚀 HPC | ☁️ Cloud Enthusiast<br>
-  Building reliable and scalable systems
+💻 Passionate about building, managing, and automating scalable systems 
 </p>
                                           
 <p align="center">
@@ -14,10 +14,8 @@
   </a>
 </p>
 
-# Hi 👋, I'm Yogesh Mahajan  
-
-🚀 **HPC | Linux | Cloud | DevOps Enthusiast**  
-💻 Passionate about building, managing, and automating scalable systems  
+# 
+  
 
 ---
 
