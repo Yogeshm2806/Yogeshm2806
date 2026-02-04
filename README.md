@@ -8,11 +8,11 @@
 💻 Passionate about building, managing, and automating scalable systems 
 </p>
                                           
-<p align="center">
-  <a href="https://www.linkedin.com/in/yogesh-mahajan-28o699" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" alt="LinkedIn"/>
-  </a>
-</p>
+#<p align="center">
+ # <a href="https://www.linkedin.com/in/yogesh-mahajan-28o699" target="_blank">
+  #  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" alt="LinkedIn"/>
+  #</a>
+#</p>
 
 <h2 align="center">📬 Connect With Me</h2>
 
