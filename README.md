@@ -2,6 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hello+%F0%9F%91%8B+Glad+you're+here" />
 </h1>
 
+<p align="center">
+  I'm <b>Yogesh Sanjay Mahajan</b><br>
+  Aspiring <b>HPC & DevOps Engineer</b><br>
+  Linux • Clusters • Cloud • Automation
+</p>
 
 <!--
 **Yogeshm2806/Yogeshm2806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
