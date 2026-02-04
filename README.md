@@ -139,26 +139,53 @@
 </ul>
 
 ---
+<h2 align="center">📂 Projects</h2>
 
-## 📂 Featured Projects  
-🔹 **HPC Cluster Setup with Slurm**  
-- Designed head node & compute node architecture  
-- Implemented HA using PCS + DRBD  
+<h3>🚀 High Availability HPC Cluster</h3>
 
-🔹 **Linux Server Administration Lab**  
-- DNS, DHCP, NFS, NTP configuration  
-- Firewall & security hardening  
+<p>
+<b>Platform:</b><br>
+Linux, Ansible, Networking, Pacemaker & Corosync (HA), DRBD (Data Replication), 
+Slurm (Job Scheduler), LDAP (Central Authentication), NFS (Shared Storage), 
+Firewall (Security), WireGuard, Shell Scripting
+</p>
 
-🔹 **Bash Automation Scripts**  
-- User management  
-- Backup scripts  
-- Monitoring basics  
+<p>
+<b>Description:</b><br>
+This project implements a <b>High Availability (HA) HPC Cluster</b> using 
+<b>DRBD</b> for synchronous, block-level data replication and 
+<b>PCS / Pacemaker & Corosync</b> for cluster resource management.
+</p>
+
+<p>
+The architecture ensures <b>service continuity</b> by automatically detecting 
+<b>Master node failures</b> and performing an immediate <b>failover</b> of the 
+<b>Virtual IP, replicated storage volumes, and application stack</b> to the 
+Standby Master node.
+</p>
+
+<p>
+This setup eliminates <b>single points of failure</b> and guarantees 
+<b>data integrity</b> and <b>high availability</b> for mission-critical 
+HPC job execution managed through <b>Slurm</b>.
+</p>
+
+<p>
+<b>Key Highlights:</b>
+<ul>
+  <li>⚙️ HA Master node failover using PCS, Pacemaker & Corosync</li>
+  <li>🔁 Real-time data replication with DRBD</li>
+  <li>🌐 Virtual IP failover for uninterrupted access</li>
+  <li>🚀 Slurm-based workload scheduling</li>
+  <li>👥 Centralized authentication via LDAP</li>
+  <li>📁 Shared storage using NFS</li>
+  <li>🔐 Secure communication with Firewall & WireGuard</li>
+  <li>🤖 Automation using Ansible & Shell scripting</li>
+</ul>
+</p>
 
 ---
-
-## 📫 Connect With Me  
-- 💼 Mob. No : 8766012221 
-- 📧 Email: yogeshm2806@gmail.com  
+  
 
 ⭐ *If you like my work, consider giving a star!*  
 
