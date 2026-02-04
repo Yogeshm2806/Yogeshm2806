@@ -35,10 +35,12 @@
 <h3>🌐 Networking</h3>
 <ul>
   <li>🖥️ Computer Hardware</li>
-  <li>📡 OSI Model, TCP/IP</li>
+  <li>📡 OSI Model</li>
+  <li>🌐 TCP/IP</li>
   <li>🔁 Networking Protocols</li>
   <li>🔀 Routing & Switching</li>
-  <li>🧩 VLAN, LAN / WAN</li>
+  <li>🧩 VLAN</li>
+  <li>🌍 LAN / WAN</li>
   <li>📊 Network Monitoring</li>
 </ul>
 
@@ -46,13 +48,18 @@
 <ul>
   <li>🧠 Operating System Architecture</li>
   <li>🚀 Linux Boot Process</li>
-  <li>⚙️ Process & Memory Management</li>
-  <li>📂 File Systems & Disk Partitioning</li>
-  <li>👥 User & Group Management, ACL</li>
-  <li>💽 LVM</li>
-  <li>🌐 Network Configuration & Management</li>
+  <li>⚙️ Process Management</li>
+  <li>🧮 Memory Management</li>
+  <li>📂 Linux File Systems</li>
+  <li>💽 Disk Partitioning</li>
+  <li>👥 User & Group Operations</li>
+  <li>🔐 ACL (Access Control Lists)</li>
+  <li>📦 LVM (Logical Volume Manager)</li>
+  <li>🌐 Network Configuration</li>
+  <li>📡 Network Management</li>
   <li>📝 Log Management</li>
-  <li>📁 NFS, Samba</li>
+  <li>📁 NFS</li>
+  <li>🗂️ Samba</li>
 </ul>
 
 <h3>☁️ Cloud Computing (AWS)</h3>
@@ -61,12 +68,70 @@
   <li>⚡ AWS Lambda (Serverless Computing)</li>
   <li>🖥️ AWS EC2 (Elastic Compute Cloud)</li>
   <li>🗄️ AWS S3 (Simple Storage Service)</li>
-  <li>🌐 VPC, Subnets, Route Tables</li>
-  <li>🔐 Security Groups, IAM</li>
-  <li>🚀 AWS Elastic Beanstalk</li>
+  <li>🌐 AWS Networking (VPC, Subnets, Route Tables)</li>
+  <li>🔐 Security Groups</li>
+  <li>🧑‍💼 AWS IAM (Identity & Access Management)</li>
+  <li>🚀 AWS Elastic Beanstalk (PaaS)</li>
   <li>🧰 AWS CLI & SDKs</li>
-  <li>💾 AWS Storage (RDS, EFS, Glacier)</li
+  <li>💾 AWS Storage (RDS, EFS, Glacier)</li>
+  <li>🛡️ Cloud Security</li>
+</ul>
 
+<h3>⚙️ DevOps</h3>
+<ul>
+  <li>🔄 CI/CD (GitHub Actions, Jenkins)</li>
+  <li>🧬 Version Control (Git)</li>
+  <li>🤖 Ansible</li>
+  <li>🐳 Docker (Containerization)</li>
+  <li>☸️ Kubernetes</li>
+</ul>
+
+<h3>💻 Scripting & Programming</h3>
+<ul>
+  <li>🐍 Python</li>
+  <li>📜 Bash Scripting</li>
+  <li>🤖 Automation Scripts</li>
+  <li>🏗️ Infrastructure as Code (Terraform)</li>
+</ul>
+
+<h3>🔐 Security & Traffic Management</h3>
+<ul>
+  <li>🧱 Firewalls</li>
+  <li>🏰 DMZ</li>
+  <li>🔒 VPN</li>
+  <li>🔐 IPSec</li>
+  <li>🚨 IDS / IPS</li>
+  <li>🔁 Reverse Proxy</li>
+  <li>📡 Nagios</li>
+</ul>
+
+<h3>📊 Monitoring & Logging</h3>
+<ul>
+  <li>📡 Nagios</li>
+  <li>☁️ Amazon CloudWatch</li>
+  <li>🔔 Amazon SNS (Simple Notification Service)</li>
+  <li>📈 Prometheus</li>
+  <li>📊 Grafana</li>
+  <li>🧾 ELK Stack (Elasticsearch, Logstash, Kibana)</li>
+</ul>
+
+<h3>🚀 High Performance Computing (HPC)</h3>
+<ul>
+  <li>⚙️ SLURM</li>
+  <li>🧠 IPMI</li>
+  <li>🖥️ HMC</li>
+  <li>👥 User Management</li>
+  <li>📂 LDAP</li>
+  <li>📊 System Benchmarking</li>
+  <li>📈 HPL Benchmark</li>
+  <li>🔗 OpenMPI</li>
+  <li>🖥️ xCAT</li>
+  <li>🤖 Ansible (Cluster Automation)</li>
+  <li>⚡ InfiniBand</li>
+  <li>💾 Lustre</li>
+  <li>🕒 Process Scheduling</li>
+  <li>🔁 PCS + DRBD</li>
+</ul>
 
 ---
 
@@ -94,7 +159,7 @@
 ---
 
 ## 📫 Connect With Me  
-- 💼 LinkedIn: https://linkedin.com/in/https://www.linkedin.com/in/yogesh-mahajan-28o699?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app  
+- 💼 Mob. No : 8766012221 
 - 📧 Email: yogeshm2806@gmail.com  
 
 ⭐ *If you like my work, consider giving a star!*  
