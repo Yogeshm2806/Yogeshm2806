@@ -8,17 +8,22 @@
 💻 Passionate about building, managing, and automating scalable systems 
 </p>
 
-  <h2 align="center">📬 Connect With Me</h2>
+<h2 align="center">📬 Connect With Me</h2>
 
 <p align="center">
   <a href="mailto:yogeshm2806@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"
          width="48"
          alt="Gmail"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/yogesh-mahajan-28o699" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         width="48"
+         alt="LinkedIn"/>
+  </a>
+</p>
+
 
 ---
 
