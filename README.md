@@ -4,9 +4,10 @@
 
 <p align="center">
   I'm <b>Yogesh Sanjay Mahajan</b><br>
-  Aspiring <b>HPC & DevOps Engineer</b><br>
-  Linux • Clusters • Cloud • Automation
+  🐧 Linux | ⚙️ DevOps | 🚀 HPC | ☁️ Cloud Enthusiast<br>
+  Building reliable and scalable systems
 </p>
+
 
 <!--
 **Yogeshm2806/Yogeshm2806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
