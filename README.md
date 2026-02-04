@@ -173,14 +173,14 @@ HPC job execution managed through <b>Slurm</b>.
 <p>
 <b>Key Highlights:</b>
 <ul>
-  <li>⚙️ HA Master node failover using PCS, Pacemaker & Corosync</li>
-  <li>🔁 Real-time data replication with DRBD</li>
-  <li>🌐 Virtual IP failover for uninterrupted access</li>
-  <li>🚀 Slurm-based workload scheduling</li>
-  <li>👥 Centralized authentication via LDAP</li>
-  <li>📁 Shared storage using NFS</li>
-  <li>🔐 Secure communication with Firewall & WireGuard</li>
-  <li>🤖 Automation using Ansible & Shell scripting</li>
+  <li>HA Master node failover using PCS, Pacemaker & Corosync</li>
+  <li>Real-time data replication with DRBD</li>
+  <li>Virtual IP failover for uninterrupted access</li>
+  <li>Slurm-based workload scheduling</li>
+  <li>Centralized authentication via LDAP</li>
+  <li>Shared storage using NFS</li>
+  <li>Secure communication with Firewall & WireGuard</li>
+  <li>Automation using Ansible & Shell scripting</li>
 </ul>
 </p>
 
