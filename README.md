@@ -10,11 +10,26 @@
 
 <h2 align="center">📬 Connect With Me</h2>
 
+<h2 align="center">📬 Connect With Me</h2>
 
 <p align="center">
-  <a href="tel:8766012221">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phone/phone-original.svg" width="42" />
+  <a href="mailto:yogeshm2806@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
+         width="44"
+         style="filter: invert(1);"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/yogesh-mahajan-28o699" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         width="44"/>
+  </a>
+</p>
+
+
+
+
+
+  
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:yogeshm2806@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="42" />
