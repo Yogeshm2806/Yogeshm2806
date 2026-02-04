@@ -30,26 +30,43 @@
 
 ## 🛠️ Skills & Tools  
 
-**Operating Systems**  
-- Linux (Ubuntu, CentOS, RHEL)
+<h2 align="center">🛠️ Skills & Technologies</h2>
 
-**HPC & Cluster Technologies**  
-- Slurm  
-- DRBD  
-- PCS / Pacemaker  
-- NFS  
-- MPI (Basic)  
+<h3>🌐 Networking</h3>
+<ul>
+  <li>🖥️ Computer Hardware</li>
+  <li>📡 OSI Model, TCP/IP</li>
+  <li>🔁 Networking Protocols</li>
+  <li>🔀 Routing & Switching</li>
+  <li>🧩 VLAN, LAN / WAN</li>
+  <li>📊 Network Monitoring</li>
+</ul>
 
-**Cloud & DevOps**  
-- AWS (EC2, S3, IAM – Basics)  
-- Docker  
-- Git & GitHub  
-- Bash Scripting  
+<h3>🐧 Linux</h3>
+<ul>
+  <li>🧠 Operating System Architecture</li>
+  <li>🚀 Linux Boot Process</li>
+  <li>⚙️ Process & Memory Management</li>
+  <li>📂 File Systems & Disk Partitioning</li>
+  <li>👥 User & Group Management, ACL</li>
+  <li>💽 LVM</li>
+  <li>🌐 Network Configuration & Management</li>
+  <li>📝 Log Management</li>
+  <li>📁 NFS, Samba</li>
+</ul>
 
-**Networking**  
-- TCP/IP, DNS, DHCP  
-- Firewalls (iptables)  
-- SSH, NTP  
+<h3>☁️ Cloud Computing (AWS)</h3>
+<ul>
+  <li>🧱 SaaS / PaaS / IaaS</li>
+  <li>⚡ AWS Lambda (Serverless Computing)</li>
+  <li>🖥️ AWS EC2 (Elastic Compute Cloud)</li>
+  <li>🗄️ AWS S3 (Simple Storage Service)</li>
+  <li>🌐 VPC, Subnets, Route Tables</li>
+  <li>🔐 Security Groups, IAM</li>
+  <li>🚀 AWS Elastic Beanstalk</li>
+  <li>🧰 AWS CLI & SDKs</li>
+  <li>💾 AWS Storage (RDS, EFS, Glacier)</li
+
 
 ---
 
