@@ -14,6 +14,15 @@
   </a>
 </p>
 
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yogesh-mahajan-28o699" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22"/>
+    &nbsp; Connect with me on LinkedIn
+  </a>
+</p>
+
+
 <!--
 **Yogeshm2806/Yogeshm2806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
