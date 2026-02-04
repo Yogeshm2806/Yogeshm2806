@@ -1,13 +1,13 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hello+%F0%9F%91%8B+Glad+you're+here" />
 </h1>
-------------------------------------------------------------------------------
+                                               ------------------------------------------------------------------------------
 <p align="center">
   I'm <b>Yogesh Sanjay Mahajan</b><br>
   🐧 Linux | ⚙️ DevOps | 🚀 HPC | ☁️ Cloud Enthusiast<br>
   Building reliable and scalable systems
 </p>
-------------------------------------------------------------------------------
+                                              ------------------------------------------------------------------------------
 <p align="center">
   <a href="https://www.linkedin.com/in/yogesh-mahajan-28o699" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" alt="LinkedIn"/>
